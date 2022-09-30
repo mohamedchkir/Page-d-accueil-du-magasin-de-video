@@ -1,0 +1,22 @@
+
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 250px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+a{
+    margin-left: 140px;
+    text-decoration: none;
+    margin-top: 10px;
+    
+}
+ol{
+    display: flex;
+    list-style: none;
+    margin-left: 150px;
+    text-decoration: none;
+    margin-top: 0px;
+}
